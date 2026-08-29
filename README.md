@@ -87,8 +87,8 @@ The four benefits are not independent. They reinforce each other:
 
 ---
 
-# The Harbormaster Moat
+# The Harbormaster GSI Moat
 
 > **The moat isn't any single Harbormaster capability. It is the reinforcing system created when production power, proprietary production IP, compounding production advantage, and AI production intelligence continuously strengthen one another.**
 > 
->[Explore GSI Moat](./moat/moat.md)
+>[Explore Harbormaster GSI Moat](./moat/moat.md)
