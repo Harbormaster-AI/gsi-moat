@@ -1,0 +1,61 @@
+{
+    "name": "Angular",
+    "shortName": "Angular",
+    "description": "Angular uses a component-based architecture, which allows developers to build reusable and modular components.  This blueprint uses Angular on both the front and backend, with Mongoose ORM to persist to MongoDB.",
+    "summary": "From a domain model, generate a fully functional Angular based system, complete from a fundamental UI to a persistence layer",
+    "iconUrl": "blueprints/angular-blueprint-header-image.png",
+    "infoPageUrl": "http://www.harbormaster.net/Angular11.tech.stack",
+    "version": "1.0",
+    "type": "Firstclass",
+    "appType": "webapp",
+    "releaseStatus": "production",
+    "techSourceType": "opensource",
+    "derivedFrom": ".angular",
+    "majorTechnology" : "Angular",
+    "supportsDocker": "true",
+    "supportsKubernetes": "true",
+    "category": "front_framework",
+    "level": "basic",
+    "primaryVendor": "Angular",
+    "published": "false",
+    "designPattern": "CQRS",
+    "architectureStyle": "ComponentBased",
+    "useCases": "Portals,SaaS Platforms,Marketplace,Workflow Management Systems,Supply Chain,Dashboards",
+    "architecturePreviewUrl": "blueprints/architecture.diagrams/angular-blueprint-system-diagram.png",
+    "metadata": "Angular,TypeScript,Component-Based Architecture,MVVM,Dependency Injection,RxJS,Angular Material,Single Page Application,Responsive Design,Production Ready",
+    "languages": {
+       "language": [
+        {
+          "name": "typescript"
+        },
+        {
+          "name": "javascript"
+        }
+      ]
+    },
+    "techStack": {
+      "techStackComponents": [
+        {
+          "tech": "Bootstrap",
+          "description": "front-end",
+          "appLayerType": "presentation"
+        },
+        {
+          "tech": "Angular",
+          "description": "Restful API services layer",
+          "appLayerType": "business"
+        },
+        {
+          "tech": "MongoDB",
+          "description": "document persistence",
+          "appLayerType": "data"
+        },
+        {
+          "tech": "Mongoose",
+          "description": "ORM",
+          "appLayerType": "orm"
+        }
+      ]
+    }
+
+}

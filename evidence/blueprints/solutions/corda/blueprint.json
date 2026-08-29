@@ -1,0 +1,54 @@
+{
+    "name": "Corda-Marketplace-Token",
+    "shortName": "CordaMarket",
+    "summary": "Simplifies the complexity of blockchain by generating the core features allowing more time for customer features.",
+    "description": "Corda is an enterprise-grade distributed ledger platform designed for organizations that need to securely share, verify, and record business transactions across multiple parties while maintaining privacy, trust, and regulatory compliance.\n\nUnlike public blockchains that broadcast transactions to every participant, Corda shares information only with the parties directly involved in a transaction, making it particularly well-suited for financial services, supply chains, healthcare, insurance, and regulated industries.",
+    "iconUrl": "blueprints/corda-blueprint-header-image.png",
+    "infoPageUrl": "https://harbormaster.net/corda-token-techStack/",
+    "version": "0.8",
+    "type": "Firstclass",
+    "appType": "restfulapi",
+    "releaseStatus": "production",
+    "techSourceType": "commercial",
+    "derivedFrom": "Axon4-Framework-Server,corda-core",
+    "supportsDocker": "true",
+    "supportsKubernetes": "true",
+    "category": "platform",
+    "published": "false",
+    "primaryVendor": "r3 Corda",
+    "languages": {
+        "language": [
+        {
+          "name": "java"
+        },
+        {
+          "name": "kotlin"
+        }
+      ]
+    },
+    "techStack": {
+      "techStackComponents": [
+        {
+          "tech": "SpringBoot",
+          "description": "RESTful API web services backend",
+          "appLayerType": "presentation"
+        },
+        {
+          "tech": "MongoDB",
+          "description": "NoSQL",
+          "appLayerType": "data"
+        },
+        {
+          "tech": "Junit",
+          "description": "JUnit to test core functionality",
+          "appLayerType": "test"
+        },
+        {
+          "tech": "Gradle",
+          "description": "build, commit, package, deploy, run module",
+          "appLayerType": "build"
+        }
+      ]
+    }
+
+}

@@ -1,0 +1,52 @@
+{
+
+    "name": "React",
+    "shortName": "React",
+    "description": "Base React frontend blueprint",
+    "summary": "Core UI to API capabilities using React.  Excellent option to create a large matrix of backend interactions.  Easy to extend to modify the look-n-feel",
+    "iconUrl": "blueprints/react-blueprint-header-image.png",
+    "infoPageUrl": "http://www.harbormaster.net/react.tech.stack",
+    "version": "1.0",
+    "type": "Firstclass",
+    "appType": "restfulAPI",
+    "releaseStatus": "production",
+    "supportsDocker": "false",
+    "supportsKubernetes": "false",
+    "techSourceType": "opensource",
+    "majorTechnology" : "React",
+    "foundational": "false",
+    "published": "false",
+    "category": "frontend_framework",
+    "designPattern": "ComponentComposition",
+    "architectureStyle": "ComponentBased",
+    "useCases": "Marketplace, Dashboard, Portal, SaaS",
+    "architecturePreviewUrl": "blueprints/architecture.diagrams/react-blueprint-system-diagram.png",
+    "metadata": "Angular,TypeScript,Component-Based Architecture,MVVM,Dependency Injection,RxJS,Angular Material,Single Page Application,Responsive Design,Production Ready",
+  "languages": {
+        "language": [
+        {
+          "name": "javascript"
+        },
+        {
+          "name": "html"
+        },
+        {
+          "name": "css"
+        }
+      ]
+    },
+    "techStack": {
+      "techStackComponents": [
+        {
+          "tech": "React",
+          "description": "React front-end",
+          "appLayerType": "presentation"
+        },
+        {
+          "tech": "Axios",
+          "description": "Restful API invoker",
+          "appLayerType": "integration"
+        }
+      ]
+    }
+}

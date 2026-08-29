@@ -1,0 +1,51 @@
+{
+    "name": "spring-boot-core",
+    "shortName": ".spring",
+    "description": "Base Spring blueprint",
+    "iconUrl": "http://www.harbormaster.net/images/blueprints/spring.boot.png",
+    "infoPageUrl": "https://harbormaster.net/springcore-techStack/",
+    "version": "2.0",
+    "releaseStatus": "production",
+    "techSourceType": "opensource",
+    "derivedFrom": "java",
+    "supportsDocker": "true",
+    "supportsKubernetes": "true",
+    "published": "false",
+    "type": "Foundational",
+    "languages": {
+      "language": [
+        {
+        "name": "java"
+        }
+        ]
+    },
+    "techStack": {
+      "techStackComponents": [
+        {
+          "name": "SpringBoot",
+          "description": "RESTful API web services backend",
+          "appLayerType": "business"
+        },
+        {
+          "name": "Junit",
+          "description": "JUnit to test core functionality",
+          "appLayerType": "test"
+        },
+        {
+          "name": "Maven",
+          "description": "build, commit, package, deploy, run module",
+          "appLayerType": "build"
+        },
+        {
+          "name": "RDBMS",
+          "description": "Any RDBMS as an storage option",
+          "appLayerType": "data"
+        },
+        {
+          "name": "MongoDB",
+          "description": "Document storage option",
+          "appLayerType": "data"
+        }
+      ]
+    }
+}
