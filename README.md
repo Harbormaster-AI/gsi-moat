@@ -1,4 +1,9 @@
+# Why We Built Harbormaster
+Harbormaster was designed from the beginning with the needs of a large software delivery organization in mind. The premise is to capture software expertise as reusable, executable knowledge, so that the organization can produce more software, faster, with progressively less dependence on large engineering teams. SMEs encode their expertise in blueprints; Harbormaster compiles that knowledge into complete systems; and developers begin innovating from Sprint 1 rather than building the foundation from scratch.
+
+
 ![](./assets/gsi.central.thesis.png "GSI/Harbormaster Central Thesis")
+
 
 ## The Transformation Creates Four Transcendent Benefits
 
