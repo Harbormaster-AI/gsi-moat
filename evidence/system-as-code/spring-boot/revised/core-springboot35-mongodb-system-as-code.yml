@@ -1,0 +1,128 @@
+# -------------------------------------------------------------
+# Standard System-as-Code file.
+#
+# Pay close attention to parameters that require values unique  
+# to you, such as those for Git, Docker, and AWS.
+#
+# To use Git, Docker, and any provider, be sure to have created
+# an account with each.  
+#
+# For Git, before generating the project be sure to create the 
+# repository.
+# -------------------------------------------------------------
+
+system:
+    name: Core System - v1.90
+
+    description: Core domain system on Spring Boot 3.5 using MongoDB
+
+    blueprint:
+        name:             Spring Boot 3.5
+        features:         aws,docker,terraform
+    model:
+        name:             #set as an input-arg
+
+    # ------------------------------------------------------------
+    # Docker parameters
+    # ------------------------------------------------------------
+
+    docker:
+        inUse:        true
+        username:     tylertravismya
+        password:     #set as an input-arg
+        orgName:      theharbormaster
+        repository:   #set as an input-arg
+        tag:          latest
+        host:         docker.io
+
+    # ------------------------------------------------------------
+    # Git repository parameters
+    # - password is a Git token.  This data is never stored
+    # ------------------------------------------------------------
+
+    git:
+        inUse:          true
+        name:           git-spring-boot
+        host:           https://github.com
+        owner:          Harbormaster-AI
+        repository:     #set as an input-arg
+        password:       #set as an input-arg
+        tag:            latest
+
+
+# ------------------------------------------------------------
+# System options influence the generative output and possible
+# features of the resulting system.  Understand the purpose
+# and intent of each.
+# ------------------------------------------------------------
+    options:
+
+# ------------------------------------------------------------
+# Application parameters
+# ------------------------------------------------------------
+    
+        application:
+            name:                  #set as an input-arg
+            description:           #set as an input-arg
+            author:                Harbormaster Dev Team
+            email:                 xxxx.xxxxxxxxx@xxxxxxxx.com
+            companyName:           Harbormaster
+            version:               0.0.1
+
+        # ------------------------------------------------------------
+        # Spring Boot properties
+        # ------------------------------------------------------------
+
+        spring:
+            server-port:                8080
+            entity-store-type:          mongodb       # options - h2, mysql, postgres, mongodb
+            entity-store-url:           mongodb://localhost:27017/core-on-spring-boot
+            database-username:          root
+            database-password:
+            spring-profiles-active:
+            authentication-mode:        none        # options - form-login, jwt, oauth2, none
+            logging-type:               logstash    # options - logstash, gelf, ecs
+            enable-async:               true        # ignored
+            enable-entity-auditing:     true
+            enable-service-level-monitoring: true
+
+        # ------------------------------------------------------------
+        # CI/CD parameters
+        # ------------------------------------------------------------
+   #     cicd:
+   #         platform: circlci      # options - codeship, circleci, jfrog.pipelines, jenkins, azure, aws, gitlab, bitbucket, github
+
+        # ------------------------------------------------------------
+        # AWS properties
+        # ------------------------------------------------------------
+        aws:
+            inUse:              true
+            accessKey:          # set as env var on AWS
+            secretKey:          # set as env var on AWS
+            vpc:
+            region:             us-east-2
+            ec2InstanceType:    t2.medium
+            dbInstanceType:     db.t3.medium
+            amiImageId:         # use the default AMI
+
+        # ------------------------------------------------------------
+        # Terraform properties
+        # ------------------------------------------------------------
+        terraform:
+            inUse:             true
+            dbUsername:        no_user_name
+            dbPassword:        no_password
+            dbEngine:          mysql   # options - mysql, mongo, postgres
+            dbVersion:         # leave blank to apply vendor default
+            dbPort:            3306
+            provider:          aws
+
+        # ------------------------------------------------------------
+        # K8 properties
+        # ------------------------------------------------------------
+
+        kubernetes:
+            inUse:             true
+            host:
+            hostTarget:        aws
+            serviceType:       LoadBalancer
