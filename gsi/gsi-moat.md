@@ -28,9 +28,9 @@
 | [H2-03 — Solution knowledge can be encoded](./layer-2/h2-03.md)                      | 2 | Partial | Solution blueprint, generated system |
 | [H2-04 — Industry knowledge can become reusable production IP](./layer-2/h2-04.md)   | 2 | Demonstrated | Industry domain models, generated systems |
 | [H3-01 — Every project can improve the production system](./layer-3/h3-01.md)        | 3 | Future | Project-to-blueprint refinement examples |
-| [H3-01 — Engineering capacity can decouple from headcount](./layer-3/h3-02.md)       | 3 | Future | Delivery measurements |
-| [H3-02 — Revenue per engineer can increase](./layer-3/h3-03.md)                      | 3 | Future | Comparable project economics |
-| [H3-03 — A GSI can create a blueprint factory](./layer-3/h3-04.md)                   | 3 | Future | Blueprint lifecycle and certification |
+| [H3-02 — Engineering capacity can decouple from headcount](./layer-3/h3-02.md)       | 3 | Future | Delivery measurements |
+| [H3-03 — Revenue per engineer can increase](./layer-3/h3-03.md)                      | 3 | Future | Comparable project economics |
+| [H3-04 — A GSI can create a blueprint factory](./layer-3/h3-04.md)                   | 3 | Future | Blueprint lifecycle and certification |
 | [H4-01 — Structured production knowledge makes AI more valuable](./layer-4/h4-01.md) | 4 | Partial | Blueprints, models, generated systems |
 | [H4-02 — AI can progress from assisting to authoring](./layer-4/h4-02.md)            | 4 | Future | AI progression illustration, blueprint examples |
 | [H4-03 — A GSI can build AI-ready engineering knowledge](./layer-4/h4-03.md)         | 4 | Future | Accumulated blueprint and model repository |
