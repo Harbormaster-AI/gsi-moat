@@ -98,3 +98,12 @@ The four benefits are not independent. They reinforce each other:
                          │
                          ▼
               MORE RESOURCE CONSUMPTION
+```
+
+---
+
+# The Harbormaster Cloud Provider Moat
+
+> **The moat isn't any single Harbormaster capability. It is the reinforcing system created when production power, proprietary production IP, compounding software-production advantage, and AI production intelligence continuously strengthen one another—making software less expensive to produce while expanding the workloads and cloud resources consumed across the ecosystem.**
+ 
+[Explore Harbormaster Cloud Provider Moat](./cloud-moat.md)
