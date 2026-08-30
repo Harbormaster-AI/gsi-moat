@@ -34,7 +34,7 @@ Harbormaster becomes a production capability that enterprises can use to create 
 - **[H1-02](./layer-1/h1-02.md) — Existing systems can be modernized through executable production knowledge**
 - **[H1-03](./layer-1/h1-03.md) — Blueprint coverage can progressively reduce the effort required to create enterprise systems**
 - **[H1-04](./layer-1/h1-04.md) — Enterprises can retain and reuse production knowledge beyond individual projects**
-- **[H1-05](./layer-1/h1-05.md) — Enterprises will be encouraged to use the services and capabilities of the platform that creates the system. **
+- **[H1-05](./layer-1/h1-05.md) — Enterprises will be encouraged to use the services and capabilities of the platform that creates the system**
 ---
 
 ## Layer 2 — Consulting Production Advantage
