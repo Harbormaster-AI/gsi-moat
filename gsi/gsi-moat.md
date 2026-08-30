@@ -44,16 +44,16 @@ Each hypothesis uses the same outline: **Summary, Implementation, Value — Toda
 - [H1-01 — Software Production Can Be Systematized](./layer-1/h1-01.md) — Layer 1 · Platform
 - [H1-02 — Generation Can Produce Production-Ready Systems](./layer-1/h1-02.md) — Layer 1 · Platform
 - [H1-03 — Production Can Be Separated From Individual Developers](./layer-1/h1-03.md) — Layer 1 · Platform
-- [H2-01 — Engineering Expertise Can Become Executable IP](./layer-2/h1-04.md) — Layer 2 · Proprietary IP
-- [H2-02 — Technology Expertise Can Become Technology Blueprints](./layer-2/h2-01.md) — Layer 2 · Proprietary IP
-- [H2-03 — Solution Knowledge Can Be Encoded](./layer-2/h2-02.md) — Layer 2 · Proprietary IP
-- [H2-04 — Industry Knowledge Can Become Reusable Production IP](./layer-2/h2-03.md) — Layer 2 · Proprietary IP
+- [H2-01 — Engineering Expertise Can Become Executable IP](./layer-2/h2-01.md) — Layer 2 · Proprietary IP
+- [H2-02 — Technology Expertise Can Become Technology Blueprints](./layer-2/h2-02.md) — Layer 2 · Proprietary IP
+- [H2-03 — Solution Knowledge Can Be Encoded](./layer-2/h2-03.md) — Layer 2 · Proprietary IP
+- [H2-04 — Industry Knowledge Can Become Reusable Production IP](./layer-2/h2-04.md) — Layer 2 · Proprietary IP
 - [H3-01 — Every Project Can Improve the Production System](./layer-3/h3-01.md) — Layer 3 · Compounding Advantage
 - [H3-02 — Engineering Capacity Can Decouple From Headcount](./layer-3/h3-02.md) — Layer 3 · Compounding Advantage
 - [H3-03 — Revenue Per Engineer Can Increase](./layer-3/h3-03.md) — Layer 3 · Compounding Advantage
 - [H3-04 — A GSI Can Create a Blueprint Factory](./layer-3/h3-04.md) — Layer 3 · Compounding Advantage
 - [H4-01 — Structured Production Knowledge Makes AI More Valuable](./layer-4/h4-01.md) — Layer 4 · AI Intelligence
-- [H4-02 — AI Can Progress From Assisting To Authoring](./layer-4/h4-01.md) — Layer 4 · AI Intelligence
+- [H4-02 — AI Can Progress From Assisting To Authoring](./layer-4/h4-02.md) — Layer 4 · AI Intelligence
 - [H4-03 — A GSI Can Build AI-Ready Engineering Knowledge](./layer-4/h4-03.md) — Layer 4 · AI Intelligence
 
 
