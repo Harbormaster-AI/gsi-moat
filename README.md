@@ -43,7 +43,8 @@ A cloud provider can use Harbormaster to transform its accumulated technology, a
 
 As software becomes less expensive to produce:
 
-**More software → more workloads → more resource consumption → more cloud revenue**
+![](./assets/cloud.more.png "Cloud more")
+
 
 The opportunity is not simply to run more software.
 
@@ -60,6 +61,8 @@ The opportunity is not simply to run more software.
 A GSI can use Harbormaster to transform accumulated engineering knowledge into reusable, executable production capability.
 
 As more of the production process becomes encoded in blueprints:
+
+![](./assets/gsi.less.more.png "GSI less and more")
 
 **Less production effort → smaller focused teams → lower delivery cost → greater margin or lower client price → more competitive engagements**
 
