@@ -5,3 +5,174 @@ The industry domain models contained in this repo represent a small portion of t
 
 ## Available
 Harbormaster has over 240 AI procured domain models with the authorship quality of an industry SME.
+
+
+### Analytics \& AI
+
+|||||
+|-|-|-|-|
+|Analytics|Artificial Intelligence|Business Intelligence|Dashboard|
+|Data Analytics|Data Lineage|Data Quality|Forecasting|
+|Fraud Detection|Machine Learning|Recommendation Engine|Reporting|
+
+### Banking
+
+|||||
+|-|-|-|-|
+|Banking|Commercial Banking|Core Banking|Digital Payments|
+|Fraud Detection|Loan Origination|Open Banking|Trade Finance|
+|Treasury|Wealth Management|||
+
+### Collaboration
+
+|||||
+|-|-|-|-|
+|Calendar|Issue Tracking|Knowledge Sharing|Meeting Management|
+|Project Management|Resource Planning|Team Management|Wiki|
+
+### Commerce
+
+|||||
+|-|-|-|-|
+|Checkout|E-Commerce|Fulfillment|Gift Cards|
+|Loyalty|Marketplace Management|Order Management|Retail|
+|Returns Management|Shipment Tracking|Shopping Cart|Subscription Commerce|
+
+### Communication
+
+|||||
+|-|-|-|-|
+|Alerting|Chat|Document Delivery|Email|
+|Messaging|Notification|Push Notification|SMS|
+|Telecommunications|Template Management|Video Communication||
+
+### Customer \& Party Management
+
+|||||
+|-|-|-|-|
+|Account Management|Address Management|Consent Management|Contact Management|
+|Customer Management|Organization Management|Party Management|Preference Management|
+|Profile Management|Relationship Management|||
+
+### Document \& Content
+
+|||||
+|-|-|-|-|
+|Content Management|Digital Asset Management|Document Management|File Management|
+|Knowledge Management|Media Management|Media|OCR|
+|Search|Version Management|||
+
+### Financial
+
+|||||
+|-|-|-|-|
+|Accounts Payable|Accounts Receivable|Billing|Blockchain|
+|Budgeting|Capital Markets|Currency Exchange|Expense Management|
+|Financial Reporting|Fintech|General Ledger|Invoicing|
+|Mortgage Lending|Payments|Pricing|Real Estate|
+|Revenue Recognition|Subscription Management|Tax Management|Trade Finance|
+|Treasury|Wealth Management|||
+
+### Governance
+
+|||||
+|-|-|-|-|
+|Audit|Compliance|Data Retention|Governance|
+|Government|Legal Hold|Policy Management|Privacy Management|
+|Records Management||||
+
+### Healthcare
+
+|||||
+|-|-|-|-|
+|Biotechnology|Care Coordination|Claims Processing|Clinical Records|
+|Healthcare|Imaging Management|Laboratory Management|Life Sciences|
+|Medication Management|Patient Management|Pharmaceuticals|Provider Management|
+|Scheduling||||
+
+### Human Resources
+
+|||||
+|-|-|-|-|
+|Benefits|Employee Management|HR|Learning Management|
+|Onboarding|Payroll|Performance Management|Recruiting|
+|Recruitment|Time Tracking|Workforce Scheduling||
+
+### Identity \& Security
+
+|||||
+|-|-|-|-|
+|Access Control|API Key Management|Audit Logging|Authentication|
+|Authorization|Certificate Management|Cybersecurity|Identity Federation|
+|Identity Management|Multi-Factor Authentication|Multi-Tenant Management|Organization Management|
+|Permission Management|Policy Management|Role Management|Secrets Management|
+|Session Management|Single Sign-On|User Management||
+
+### Insurance
+
+|||||
+|-|-|-|-|
+|Actuarial Analysis|Claims Management|Insurance|Policy Administration|
+|Premium Billing|Reinsurance|Risk Assessment|Underwriting|
+
+### Integration
+
+|||||
+|-|-|-|-|
+|API Management|Cloud|Data Synchronization|EDI|
+|ETL|Event Management|Gateway Management|IoT|
+|Message Queue|Partner Integration|Service Registry|Webhook Management|
+
+### Manufacturing
+
+|||||
+|-|-|-|-|
+|Aerospace|Agriculture|Automotive|Bill of Materials|
+|Capacity Planning|Food \& Beverage|Maintenance Management|Manufacturing Execution|
+|Manufacturing|Production Planning|Quality Management|Shop Floor Control|
+
+### Operations
+
+|||||
+|-|-|-|-|
+|Configuration Management|Construction|Deployment Management|Energy|
+|Environment Management|ERP|Feature Flags|Health Management|
+|Hospitality|Incident Management|Logging|Metrics|
+|Monitoring|Observability|Property Management|Smart Cities|
+|Sports|Tracing|Travel|Utilities|
+
+### Product \& Catalog
+
+|||||
+|-|-|-|-|
+|Bundle Management|Configuration Management|Inventory|Pricing Catalog|
+|Product Catalog|Product Lifecycle Management|Promotion Management|Quote Management|
+|Service Catalog||||
+
+### Sales \& CRM
+
+|||||
+|-|-|-|-|
+|Account Planning|Advertising|Contract Management|CRM|
+|Customer Onboarding|Lead Management|Marketing|Opportunity Management|
+|Partner Management|Proposal Management|Quote Management|Sales Forecasting|
+|Sales Pipeline|Territory Management|||
+
+### Supply Chain
+
+|||||
+|-|-|-|-|
+|Asset Management|Demand Planning|Fleet Management|Inventory Management|
+|Logistics|Procurement|Supplier Management|Supply Chain|
+|Transportation Management|Vendor Management|Warehouse Management||
+
+### Workflow \& Process
+
+|||||
+|-|-|-|-|
+|Approval Management|Business Process Management|Case Management|Decision Management|
+|Education|Escalation Management|Rules Engine|Scheduling|
+|State Machine|Task Management|Workflow||
+
+
+

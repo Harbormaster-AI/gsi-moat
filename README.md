@@ -1,99 +1,98 @@
-# Why We Built Harbormaster
-Harbormaster was designed from the beginning with the needs of a large software delivery organization in mind. The premise is to capture software expertise as reusable, executable knowledge, so that the organization can produce more software, faster, with progressively less dependence on large engineering teams. SMEs encode their expertise in blueprints; Harbormaster compiles that knowledge into complete systems; and developers begin innovating from Sprint 1 rather than building the foundation from scratch.
+# The Harbormaster Thesis
 
+## Software Is Still Produced One System at a Time
 
-![](./assets/gsi.central.thesis.png "GSI/Harbormaster Central Thesis")
+Every organization that creates software systems repeatedly performs much of the same work:
 
+architecture, design, implementation, integration, testing, infrastructure, deployment and operational configuration.
 
-## The Transformation Creates Four Transcendent Benefits
+Much of the knowledge required to perform that work already exists inside the organization — in its people, its architectures, its standards, its previous systems and its technology choices.
 
-The four layers are not sequential benefits where one is inherently more valuable than another. They represent four equally powerful ways the transformation can create strategic advantage.
+The fundamental question is:
 
----
+> **What if that accumulated knowledge could become reusable, executable production capability?**
 
-## 1. Production Power
+Harbormaster is built around that premise.
 
-### Turn Knowledge Into Systems
+It captures software expertise in blueprints and domain models, combines that knowledge with configuration and policies, and compiles it into complete systems.
 
-*The Engine That Turns Knowledge into Systems*
+The objective is not simply to generate code.
 
-The GSI's engineering knowledge becomes executable through blueprints, models and system generation.
-
----
-
-## 2. Intellectual Capital
-
-### Turn Expertise Into Assets
-
-*What We Know. What We Own.*
-
-The GSI's technology, solution and industry expertise becomes proprietary, reusable software-production IP.
+> **The objective is to make software-system production progressively less dependent on recreating what is already known.**
 
 ---
 
-## 3. Compounding Advantage
+# One Technology. Different Economic Outcomes.
 
-### Make Every Project Make the Next One Better
+The same transformation can create different forms of value depending on the organization applying it.
 
-*Every Project Makes Us Stronger*
+### Select a perspective
 
-Projects don't simply generate revenue. They can add to the GSI's production knowledge, increasing the capability available for future projects.
-
----
-
-## 4. Production Intelligence
-
-### Turn Accumulated Knowledge Into AI Capability
-
-*The Moat That Learns and Accelerates*
-
-The structured body of production knowledge becomes an increasingly powerful substrate for AI to understand, improve and ultimately operate software production.
+| | |
+|---|---|
+| ☁️ **Cloud Provider** | **Turn software-production efficiency into more cloud resource consumption.** |
+| 🏢 **GSI / Software Delivery Organization** | **Turn software-production efficiency into greater delivery economics.** |
 
 ---
 
-# Four Benefits. One Transformation.
+## ☁️ Cloud Provider
 
-**The GSI decides which matters most.**
+### From Cloud Infrastructure Provider to Software-Production Intelligence Provider
 
-- Greater production capacity.
-- Proprietary intellectual capital.
-- A compounding delivery advantage.
-- An increasingly AI-operable software-production capability.
+A cloud provider can use Harbormaster to transform its accumulated technology, architectural and industry expertise into an expanding software-production capability.
 
-**Harbormaster enables all four.**
+As software becomes less expensive to produce:
+
+**More software → more workloads → more resource consumption → more cloud revenue**
+
+The opportunity is not simply to run more software.
+
+> **It is to make more software economically viable to create, modernize and operate on the cloud.**
+
+[Explore the Cloud Provider Thesis →](./cloud-provider/README.md)
 
 ---
 
-## How the Four Benefits Reinforce One Another
+## 🏢 GSI / Software Delivery Organization
 
-The four benefits are not independent. They reinforce each other:
+### From Engineering Services Company to Software-Production Intelligence Company
+
+A GSI can use Harbormaster to transform accumulated engineering knowledge into reusable, executable production capability.
+
+As more of the production process becomes encoded in blueprints:
+
+**Less production effort → smaller focused teams → lower delivery cost → greater margin or lower client price → more competitive engagements**
+
+The opportunity is not simply to deliver existing projects more efficiently.
+
+> **It is to fundamentally change the economics of software delivery.**
+
+[Explore the GSI Thesis →](./gsi/README.md)
+
+---
+
+# The Common Transformation
+
+Regardless of who applies it, the underlying transformation is the same:
 
 ```text
-                 CENTRAL HYPOTHESIS
-
-     Transform accumulated engineering knowledge
-          into software-production capability
-                         │
-        ┌────────────────┼────────────────┐
-        │                │                │
-        ▼                ▼                ▼
-   PRODUCTION         INTELLECTUAL     COMPOUNDING
-     POWER              CAPITAL         ADVANTAGE
-        │                │                │
-        └────────────────┼────────────────┘
-                         │
-                         ▼
-                  PRODUCTION
-                 INTELLIGENCE
-                         │
-                         ▼
-                       AI
-```
-
----
-
-# The Harbormaster GSI Moat
-
-> **The moat isn't any single Harbormaster capability. It is the reinforcing system created when production power, proprietary production IP, compounding production advantage, and AI production intelligence continuously strengthen one another.**
-> 
->[Explore Harbormaster GSI Moat](./moat/moat.md)
+                 ACCUMULATED KNOWLEDGE
+                          │
+                          ▼
+                   DOMAIN MODELS
+                          │
+                          ▼
+                      BLUEPRINTS
+                          │
+                          ▼
+               EXECUTABLE PRODUCTION
+                          │
+                          ▼
+                  COMPLETE SYSTEMS
+                          │
+                          ▼
+              LESS RECREATED WORK
+                          │
+                          ▼
+                GREATER PRODUCTION
+                    ECONOMICS
