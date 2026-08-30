@@ -28,10 +28,11 @@ The same transformation can create different forms of value depending on the org
 
 ### Select a perspective
 
-| | |
-|---|---|
-| ☁️ **Cloud Provider** | **Turn software-production efficiency into more cloud resource consumption.** |
-| 🏢 **GSI / Software Delivery Organization** | **Turn software-production efficiency into greater delivery economics.** |
+| Target                                       | Catalyst /  Outcome                                                                                                                                                                                       | 
+|----------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| 
+| ☁️ **Public Cloud Provider**                 | **Turn software-production efficiency into more cloud resource consumption.**                                                                                                                             |
+| 🏢 **GSI / Software Delivery Organization**  | **Turn software-production efficiency into greater delivery economics.**                                                                                                                                  |                                                                                                                      
+| ☁️🏢 **A Global SI w/ Private/Hybrid Cloud** | **GSI Value while serving as a catalyst to more managed-services demand:**   |
 
 ---
 
@@ -74,28 +75,56 @@ The opportunity is not simply to deliver existing projects more efficiently.
 
 ---
 
+## ☁️🏢 GSI / Private Cloud Managed Services Organization
+
+### From Managed Infrastructure Provider to Software-Production Intelligence Provider
+
+A GSI with private-cloud infrastructure can use Harbormaster to transform accumulated engineering, architectural and industry expertise into an expanding software-production capability.
+
+As more software becomes economically viable to create and modernize:
+
+![](./assets/hybrid.less.more.png "Private Cloud more")
+
+The opportunity is not simply to host more software.
+
+> **It is to make more software economically viable to create, modernize and operate as managed workloads.**
+
+More software production creates more applications to migrate, deploy, operate, secure, monitor, maintain and evolve—expanding the managed-services opportunity without requiring the GSI to proportionally expand its delivery workforce.
+
+Explore Hybrid Thesis For:  
+
+[IBM](./hybrid/ibm/README.md)  
+[NTT Data](./hybrid/nttdata/README.md)  
+[Kyndryl](./hybrid/kyndryl/README.md)  
+[DXC](./hybrid/dxc/README.md)  
+
+---
+
 # The Common Transformation
 
 Regardless of who applies it, the underlying transformation is the same:
 
 ```text
-                 ACCUMULATED KNOWLEDGE
-                          │
-                          ▼
-                   DOMAIN MODELS
-                          │
-                          ▼
-                      BLUEPRINTS
-                          │
-                          ▼
-               EXECUTABLE PRODUCTION
-                          │
-                          ▼
-                  COMPLETE SYSTEMS
-                          │
-                          ▼
-              LESS RECREATED WORK
-                          │
-                          ▼
-                GREATER PRODUCTION
-                    ECONOMICS
+                   HARBORMASTER
+                         │
+          ┌──────────────┼──────────────┐
+          ▼              ▼              ▼
+       ENTERPRISE       GSI          PLATFORM
+       SOFTWARE       DELIVERY       SOFTWARE
+          │              │              │
+          │              │              ▼
+          │              │      Developer adoption
+          │              │              │
+          ▼              ▼              ▼
+       Systems       Services      Technology
+       created       delivered      consumed
+          │              │              │
+          └──────────────┼──────────────┘
+                         ▼
+                   MORE SOFTWARE
+                         │
+                         ▼
+                  MORE WORKLOADS
+                         │
+                         ▼
+                MORE PLATFORM VALUE
