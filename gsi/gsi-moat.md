@@ -59,6 +59,6 @@ Each hypothesis uses the same outline: **Summary, Implementation, Value — Toda
 
 ## Closing
 
-> *A continuously expanding body of executable software-production knowledge, accumulated from our people and projects, encoded in proprietary blueprints and domain models, and increasingly operated and improved by AI.*
+> *A continuously expanding body of executable software-production knowledge, accumulated from your people and projects, encoded in proprietary blueprints and domain models, and increasingly operated and improved by AI.*
 
 [<<< return](../README.md)
