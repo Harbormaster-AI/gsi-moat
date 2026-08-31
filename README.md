@@ -33,12 +33,12 @@ The same transformation can create different forms of value depending on the org
 
 ### Select a perspective
 
-| Target                               | Catalyst /  Outcome                                                            | 
-|--------------------------------------|--------------------------------------------------------------------------------| 
-| ☁️ **Public Cloud Provider**         | **More applications → more cloud consumption.**                                 
-| 🏢 **GSI/Software Delivery Org**     | **More applications → more billable production + greater delivery economics.** |                                                                                                                      
-| ☁️🏢 **GSI w/ Private/Hybrid Cloud** | **More applications → more services + infrastructure + cloud + operation.**    |
-| 🖥️ **Managed Hybrid Cloud Provider** | **More applications → more managed workloads → more recurring operations revenue.**    |
+| Target                               | Catalyst /  Outcome                                                                 |                                   | 
+|--------------------------------------|-------------------------------------------------------------------------------------|-----------------------------------|
+| ☁️ **Public Cloud Provider**         | **More applications → more cloud consumption.**                                     | [Explore](./cloud-provider/README.md "") |
+| 🏢 **GSI/Software Delivery Org**     | **More applications → more billable production + greater delivery economics.**      | [Explore](./gsi/README.md "")            |
+| ☁️🏢 **GSI w/ Private/Hybrid Cloud** | **More applications → more services + infrastructure + cloud + operation.**         | [Explore](./hybrid/README.md "")         |
+| 🖥️ **Managed Hybrid Cloud Provider** | **More applications → more managed workloads → more recurring operations revenue.** | [Explore](./msp/README.md "")            |
 
 ---
 
