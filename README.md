@@ -27,20 +27,22 @@ The objective is not simply to generate code.
 ---
 
 # One Technology. Different Economic Outcomes.
+![](./assets/software.value.chain.png)
 
 The same transformation can create different forms of value depending on the organization applying it.
 
 ### Select a perspective
 
-| Target                                     | Catalyst /  Outcome   | 
-|--------------------------------------------|-------------------------------------------------------------------------------| 
-| ☁️ **Public Cloud Provider**               | **Turn software-production efficiency into more cloud resource consumption.** 
-| 🏢 **GSI/Software Delivery Org**           | **Turn software-production efficiency into greater delivery economics.**      |                                                                                                                      
-| ☁️🏢 **GSI w/ Private/Hybrid Cloud**       | **GSI Value while serving as a catalyst to more managed-services demand:**   |
+| Target                               | Catalyst /  Outcome                                                            | 
+|--------------------------------------|--------------------------------------------------------------------------------| 
+| ☁️ **Public Cloud Provider**         | **More applications → more cloud consumption.**                                 
+| 🏢 **GSI/Software Delivery Org**     | **More applications → more billable production + greater delivery economics.** |                                                                                                                      
+| ☁️🏢 **GSI w/ Private/Hybrid Cloud** | **More applications → more services + infrastructure + cloud + operation.**    |
+| 🖥️ **Managed Hybrid Cloud Provider** | **More applications → more managed workloads → more recurring operations revenue.**    |
 
 ---
 
-## ☁️ Cloud Provider
+## ☁️ Public Cloud Provider
 
 ### From Cloud Infrastructure Provider to Software-Production Intelligence Provider
 
@@ -55,7 +57,7 @@ The opportunity is not simply to run more software.
 
 > **It is to make more software economically viable to create, modernize and operate on the cloud.**
 
-[Explore the Cloud Provider Thesis →](./cloud-provider/README.md)
+[Explore the Public Cloud Provider Thesis →](./cloud-provider/README.md)
 
 ---
 
@@ -75,7 +77,7 @@ The opportunity is not simply to deliver existing projects more efficiently.
 
 > **It is to fundamentally change the economics of software delivery.**
 
-[Explore the GSI Thesis →](./gsi/README.md)
+[Explore the Global System Integrator Thesis →](./gsi/README.md)
 
 ---
 
@@ -104,31 +106,30 @@ Explore Hybrid Thesis For:
 
 ---
 
+# 🖥️ Managed Hybrid Cloud Provider 
+### Turn Managed Operations Into a Workload-Growth Engine
+
+A Managed Hybrid Cloud Provider can use Harbormaster to increase the number of applications that become economically viable to create, modernize and bring into its managed technology environment.
+
+As more of the software-production process becomes encoded in reusable blueprints:
+
+Lower production effort → more systems created and modernized → more workloads deployed → larger managed estate → greater recurring services revenue
+
+The opportunity is not simply to operate existing workloads more efficiently.
+
+It is to increase the number of workloads entering the managed environment in the first place.
+
+Harbormaster therefore creates a direct connection between software production and managed-services growth:
+
+![](./assets/more.and.more.png)
+
+[Explore the Managed Service Provider Thesis](./msp/README.md)
+
+---
+
 # The Common Transformation
 
 Regardless of who applies it, the underlying transformation is the same:
 
-```text
-                   HARBORMASTER
-                         │
-          ┌──────────────┼──────────────┐
-          ▼              ▼              ▼
-       ENTERPRISE       GSI          PLATFORM
-       SOFTWARE       DELIVERY       SOFTWARE
-          │              │              │
-          │              │              ▼
-          │              │      Developer adoption
-          │              │              │
-          ▼              ▼              ▼
-       Systems       Services      Technology
-       created       delivered      consumed
-          │              │              │
-          └──────────────┼──────────────┘
-                         ▼
-                   MORE SOFTWARE
-                         │
-                         ▼
-                  MORE WORKLOADS
-                         │
-                         ▼
-                MORE PLATFORM VALUE
+
+![](./assets/top.down.flow.png)
