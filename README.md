@@ -22,6 +22,10 @@ The objective is not simply to generate code.
 
 ---
 
+![](./assets/history.png)
+
+---
+
 # One Technology. Different Economic Outcomes.
 
 The same transformation can create different forms of value depending on the organization applying it.
