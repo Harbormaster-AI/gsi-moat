@@ -17,15 +17,15 @@ The question isn't how many lines of code can Harbormaster generate. The questio
 
 ## Assumptions
 
-Representative enterprise application: 150K LOC
-Current Harbormaster generation: 75K LOC → initial 50% project coverage
-Delivery-effort reduction on a fully covered project progresses from 23% → 56% → 75.5%
-Delivery cost = 67% of revenue
-Workforce = 70% of delivery cost
-Scenario A realizes 70% of the theoretical workforce-cost reduction
-Scenario B retains 100% of the workforce and fully redeploys the released capacity
-Scenario B's figures represent additional revenue capacity, not a claim that the market will necessarily supply that much work
-Revenue is held at $15B until we explicitly introduce the competitive-win hypothesis
+Representative enterprise application: 150K LOC  
+Current Harbormaster generation: 75K LOC → initial 50% project coverage  
+Delivery-effort reduction on a fully covered project progresses from 23% → 56% → 75.5%  
+Delivery cost = 67% of revenue  
+Workforce = 70% of delivery cost  
+Scenario A realizes 70% of the theoretical workforce-cost reduction  
+Scenario B retains 100% of the workforce and fully redeploys the released capacity  
+Scenario B's figures represent additional revenue capacity, not a claim that the market will necessarily supply that much work  
+Revenue is held at $15B until we explicitly introduce the competitive-win hypothesis  
 
 ## Conclusion
 > Same workforce → progressively more software produced.  
