@@ -101,7 +101,12 @@ The four benefits are not independent. They reinforce each other:
 ```
 
 ---
+# Explore Operational and Economic Drivers
+Discover the full benefits of Harbormaster to a Cloud Provider ecosystem.
 
+[Explore Drivers](./drivers.md)
+
+---
 # The Harbormaster Cloud Provider Moat
 
 > **The moat isn't any single Harbormaster capability. It is the reinforcing system created when production power, proprietary production IP, compounding software-production advantage, and AI production intelligence continuously strengthen one another—making software less expensive to produce while expanding the workloads and cloud resources consumed across the ecosystem.**

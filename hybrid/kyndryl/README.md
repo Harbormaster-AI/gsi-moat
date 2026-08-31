@@ -106,3 +106,9 @@ Harbormaster potentially extends this trajectory upstream—from operating and m
 - **[H4-03](./layer-4/h4-03.md) — AI can increasingly extend and author production knowledge as the structured corpus grows**
 - **[H4-04](./layer-4/h4-04.md) — Accumulated production intelligence can simultaneously improve enterprise production, Kyndryl delivery economics and managed-services opportunity**
 - **[H4-05](./layer-4/h4-05.md) — ISVs and technology partners can create blueprints that accelerate adoption and usage of their technologies through Kyndryl's ecosystem**
+
+---
+# Explore Operational and Economic Drivers
+Discover the full benefits of Harbormaster to your ecosystem.
+
+[Explore Drivers](../drivers.md)

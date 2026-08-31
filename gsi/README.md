@@ -91,6 +91,12 @@ The four benefits are not independent. They reinforce each other:
 ```
 
 ---
+# Explore Operational and Economic Drivers
+Discover the full benefits of Harbormaster to a GSI ecosystem.
+
+[Explore Drivers](./drivers.md)
+
+---
 
 # The Harbormaster GSI Moat
 

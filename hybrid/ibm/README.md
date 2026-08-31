@@ -138,3 +138,10 @@ That creates a potential moat around both the consulting organization and the pl
 * **[H4-03](./layer-4/h4-03.md) — AI can increasingly extend and author production knowledge as the structured corpus grows**
 * **[H4-04](./layer-4/h4-04.md) — Accumulated production intelligence can simultaneously improve enterprise production, delivery economics and platform consumption**
 * **[H4-05](./layer-4/h4-05.md) — ISVs will drive software production by creating blueprints to accelerate adoption and usage of their technology**
+
+---
+
+# Explore Operational and Economic Drivers
+Discover the full benefits of Harbormaster to your ecosystem.
+
+[Explore Drivers](../drivers.md)
