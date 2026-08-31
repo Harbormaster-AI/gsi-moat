@@ -28,11 +28,11 @@ The same transformation can create different forms of value depending on the org
 
 ### Select a perspective
 
-| Target                                       | Catalyst /  Outcome                                                                                                                                                                                       | 
-|----------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| 
-| ☁️ **Public Cloud Provider**                 | **Turn software-production efficiency into more cloud resource consumption.**                                                                                                                             |
-| 🏢 **GSI / Software Delivery Organization**  | **Turn software-production efficiency into greater delivery economics.**                                                                                                                                  |                                                                                                                      
-| ☁️🏢 **A Global SI w/ Private/Hybrid Cloud** | **GSI Value while serving as a catalyst to more managed-services demand:**   |
+| Target                               | Catalyst /  Outcome                                                                                                                                                                                       | 
+|--------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| 
+| ☁️ **Public Cloud Provider**         | **Turn software-production efficiency into more cloud resource consumption.**                                                                                                                             |
+| 🏢 **GSI/Software Delivery Org**     | **Turn software-production efficiency into greater delivery economics.**                                                                                                                                  |                                                                                                                      
+| ☁️🏢 **GSI w/ Private/Hybrid Cloud** | **GSI Value while serving as a catalyst to more managed-services demand:**   |
 
 ---
 
