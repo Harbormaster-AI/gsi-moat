@@ -30,7 +30,14 @@ This content is meant to inform and be shared with senior business and senior te
 
 Every organization that creates software systems repeatedly performs much of the same work:
 
-architecture, design, implementation, integration, testing, infrastructure, deployment and operational configuration.
+- architecture
+- design
+- implementation
+- integration
+- testing
+- infrastructure
+- deployment
+- operational configuration.
 
 Much of the knowledge required to perform that work already exists inside the organization — in its people, its architectures, its standards, its previous systems and its technology choices.
 
@@ -61,6 +68,7 @@ The same transformation can create different forms of value depending on the org
 | 🏢 **GSI/Software Delivery Org**     | **More applications → more billable production + greater delivery economics.**                                         | [Explore](./gsi/README.md "")        |
 | ☁️🏢 **GSI w/ Private/Hybrid Cloud** | **More applications → more services + infrastructure + cloud + operation.**                                           | [Explore](./hybrid/README.md "")     |
 | 🖥️ **Managed Hybrid Cloud Provider** | **More applications → more managed workloads → more recurring operations revenue.**                                   | [Explore](./msp/README.md "")        |
+
 ---
 
 ## 🏛️ Large Enterprise
@@ -180,6 +188,3 @@ Harbormaster has a history being trusted to turn application knowledge into reus
 
 ![](./assets/history.png)
 
----
-
-![](./assets/top.down.flow.png)
