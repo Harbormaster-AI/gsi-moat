@@ -2,7 +2,7 @@
 
 This content will serve to express who we built this platform for and the reasons why, along with proof (where possible) to support those reasons.
 
-Instead of offering a deck with sales and marketing language, or a online demo, we offer a deeper understanding to the technology by creating:
+Instead of offering a deck with sales and marketing language, or an online demo, we offer a deeper understanding to the technology by creating:
 
 - An overarching thesis to summarize the high level intent of the platform.
 - A set of supporting sub-thesis based on the target user.
@@ -11,7 +11,19 @@ Instead of offering a deck with sales and marketing language, or a online demo, 
 
 ---
 
-# For Leadership
+# Quick Assumptions
+
+Harbormaster was preconceived based on a few simple assumptions:
+
+- #### Moving automation up your software delivery stack is a good thing.
+- #### Turning the knowledge of your software experts into the software system they intended is hit or miss.
+- #### It is better to have a new system created by your most knowledgeable application experts.
+- #### Positive results follow when teams can start innovating on Sprint.
+
+---
+
+# Audience
+
 This content is meant to inform and be shared with senior business and senior technology leadership.  If the platform is a transformational as the theses and hypotheses will try to reveal, it should effortlessly align with 1 or more goals of your CIO.
 
 | Target Category                         | CIO | Chief/Enterprise Architect                                                                                                         | Application Portfolio Owner | Corporate Development |
@@ -56,7 +68,15 @@ The objective is not simply to generate code.
 
 # Fully Utilize Your Software SMEs
 
-Software SMEs traditionally create **static content**: architecture documents, reference implementations, standards, patterns, configuration guides, deployment instructions and other forms of institutional knowledge.
+Software SMEs traditionally create **static content**: 
+
+- architecture documents
+- reference implementations
+- standards
+- patterns
+- configuration guides
+- deployment instructions
+- other forms of institutional knowledge
 
 Harbormaster changes the role of that expertise. Instead of simply documenting **how a system should be built**, SMEs can encode that knowledge into **reusable, executable blueprints** that can participate directly in system production.
 
