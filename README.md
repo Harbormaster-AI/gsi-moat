@@ -52,6 +52,35 @@ The objective is not simply to generate code.
 
 > **The objective is to make software-system production progressively less dependent on recreating what is already known.**
 
+---
+
+# Fully Utilize Your Software SMEs
+
+Software SMEs traditionally create **static content**: architecture documents, reference implementations, standards, patterns, configuration guides, deployment instructions and other forms of institutional knowledge.
+
+Harbormaster changes the role of that expertise. Instead of simply documenting **how a system should be built**, SMEs can encode that knowledge into **reusable, executable blueprints** that can participate directly in system production.
+
+The blueprint becomes a living representation of enterprise knowledge—capturing architecture, technology choices, policies, configuration and proven implementation patterns.
+
+> **SME expertise moves from documentation that people read to production capability that the organization can execute, reuse and continuously improve.**
+
+Over time, this creates an organizational asset that is far more valuable than a collection of documents: **an executable body of enterprise production knowledge.**
+
+---
+
+# The Evolution of AI-Driven Software Production
+
+### AI Matures With the Blueprint Continuum
+
+AI's role in software production can mature alongside the organization's growing continuum of blueprints. Early on, AI can **use existing blueprints** to assemble systems, configure options, explain production decisions and assist developers in applying proven patterns.
+
+As the blueprint library expands—from foundational technology patterns to application architectures, industry models, infrastructure, security and operational capabilities—AI gains a progressively richer set of **known, validated production choices** from which to work.
+
+Over time, AI can move from **using blueprints → composing blueprints → extending blueprints → creating new blueprints**, with human SMEs providing governance and certification.
+
+> **The more production knowledge the organization captures as executable blueprints, the more constrained, informed and capable AI becomes at creating software.**
+
+The long-term vision is not AI replacing the blueprint system. **The blueprint system becomes the structured production knowledge layer that gives AI something reliable to reason from, execute against, and continuously improve.**
 
 
 # One Technology. Different Economic Outcomes.
