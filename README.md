@@ -176,12 +176,6 @@ Harbormaster therefore creates a direct connection between software production a
 
 ---
 
-# The Common Transformation
-
-Regardless of who applies it, the underlying transformation is the same:
-
----
-
 # History 
 
 Harbormaster has a history being trusted to turn application knowledge into reusable assets to create software systems.
