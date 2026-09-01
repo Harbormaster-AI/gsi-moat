@@ -104,7 +104,7 @@ For example:
 
 ```text
 Harbormaster:
-47,000 lines / 80 human hours
+47,000 lines / 32 human hours
 
 Traditional production:
 47,000 lines / 1,200 human hours
