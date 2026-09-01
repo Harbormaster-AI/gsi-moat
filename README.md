@@ -102,6 +102,7 @@ Over time, AI can move from **using blueprints → composing blueprints → exte
 
 The long-term vision is not AI replacing the blueprint system. **The blueprint system becomes the structured production knowledge layer that gives AI something reliable to reason from, execute against, and continuously improve.**
 
+---
 
 # One Technology. 5 Different Economic Outcomes.
 <!-- ![](./assets/software.value.chain.png) -->
