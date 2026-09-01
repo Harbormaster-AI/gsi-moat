@@ -103,8 +103,8 @@ Over time, AI can move from **using blueprints → composing blueprints → exte
 The long-term vision is not AI replacing the blueprint system. **The blueprint system becomes the structured production knowledge layer that gives AI something reliable to reason from, execute against, and continuously improve.**
 
 
-# One Technology. Different Economic Outcomes.
-![](./assets/software.value.chain.png)
+# One Technology. 5 Different Economic Outcomes.
+<!-- ![](./assets/software.value.chain.png) -->
 
 The same transformation can create different forms of value depending on the organization applying it.
 
@@ -127,9 +127,8 @@ A large enterprise can use Harbormaster to transform accumulated application, ar
 
 As more of the enterprise's production knowledge becomes encoded in blueprints and models:
 
-![](./assets/enterprise.less.more.png "Enterprise less and more")
-
-**Less production effort → greater engineering capacity → faster application delivery → faster modernization → more systems produced**
+<!-- ![](./assets/enterprise.less.more.png "Enterprise less and more")-->
+### Less production effort → greater engineering capacity → faster application delivery → faster modernization → more systems produced
 
 The opportunity is not simply to reduce the cost of existing software development.
 
@@ -147,8 +146,8 @@ A cloud provider can use Harbormaster to transform its accumulated technology, a
 
 As software becomes less expensive to produce:
 
-![](./assets/cloud.more.png "Cloud more")
-
+<!-- ![](./assets/cloud.more.png "Cloud more") -->
+### More software → More workloads → More resource consumption → More cloud revenue
 
 The opportunity is not simply to run more software.
 
@@ -166,9 +165,8 @@ A GSI can use Harbormaster to transform accumulated engineering knowledge into r
 
 As more of the production process becomes encoded in blueprints:
 
-![](./assets/gsi.less.more.png "GSI less and more")
-
-**Less production effort → smaller focused teams → lower delivery cost → greater margin or lower client price → more competitive engagements**
+### Less production effort → Smaller focused teams → Lower delivery cost → Greater margin or lower client price → More competitive engagments
+<!-- ![](./assets/gsi.less.more.png "GSI less and more") -->
 
 The opportunity is not simply to deliver existing projects more efficiently.
 
@@ -186,7 +184,8 @@ A GSI with private-cloud infrastructure can use Harbormaster to transform accumu
 
 As more software becomes economically viable to create and modernize:
 
-![](./assets/hybrid.less.more.png "Private Cloud more")
+<!-- ![](./assets/hybrid.less.more.png "Private Cloud more") -->
+### Lower software production effort → More software → More systems to operate → More managed workloads → More managed services revenue 
 
 The opportunity is not simply to host more software.
 
@@ -194,40 +193,30 @@ The opportunity is not simply to host more software.
 
 More software production creates more applications to migrate, deploy, operate, secure, monitor, maintain and evolve—expanding the managed-services opportunity without requiring the GSI to proportionally expand its delivery workforce.
 
-Explore Hybrid Thesis For:  
+Explore the GIS/Private Cloud Managed Services Thesis For:  
 
 [IBM](./hybrid/ibm/README.md)  
 [NTT Data](./hybrid/nttdata/README.md)  
 [Kyndryl](./hybrid/kyndryl/README.md)  
 [DXC](./hybrid/dxc/README.md)  
-
+[HPE](./hybrid/hpe/README.md)
 ---
 
-# 🖥️ Managed Hybrid Cloud Provider 
+# 🖥️ Managed Service Provider 
 ### Turn Managed Operations Into a Workload-Growth Engine
 
 A Managed Hybrid Cloud Provider can use Harbormaster to increase the number of applications that become economically viable to create, modernize and bring into its managed technology environment.
 
 As more of the software-production process becomes encoded in reusable blueprints:
 
-Lower production effort → more systems created and modernized → more workloads deployed → larger managed estate → greater recurring services revenue
-
-The opportunity is not simply to operate existing workloads more efficiently.
-
-It is to increase the number of workloads entering the managed environment in the first place.
+### Lower production effort → more systems created and modernized → more workloads deployed → larger managed estate → greater recurring services revenue
 
 Harbormaster therefore creates a direct connection between software production and managed-services growth:
 
-![](./assets/more.and.more.png)
+The opportunity is not simply to operate existing workloads more efficiently.
+
+> **It is to increase the number of workloads entering the managed environment in the first place.**
 
 [Explore the Managed Service Provider Thesis](./msp/README.md)
 
-<!--
----
 
-# History 
-
-Harbormaster has a history being trusted to turn application knowledge into reusable assets to create software systems.
-
-![](./assets/history.png)
--->
