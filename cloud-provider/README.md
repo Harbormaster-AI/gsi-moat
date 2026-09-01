@@ -5,6 +5,16 @@ Harbormaster was designed with the needs of a major cloud provider in mind. The 
 
 ![](./assets/cloud.central.thesis.png "Cloud Provider/Harbormaster Central Thesis")
 
+---
+
+## The Harbormaster Cloud Provider Moat
+
+> **The moat isn't any single Harbormaster capability. It is the reinforcing system created when production power, proprietary production IP, compounding production advantage, and AI production intelligence continuously strengthen one another.**
+>
+> Explore the moat to understand its hypotheses with evidence to serve as proof to its value as a transformational competitive edge.
+>
+> [Explore Harbormaster Cloud Provider Moat](./moat.md)
+
 
 ## The Transformation Creates Four Transcendent Benefits
 
@@ -105,12 +115,5 @@ The four benefits are not independent. They reinforce each other:
 Discover the full benefits of Harbormaster to a Cloud Provider ecosystem.
 
 [Explore Drivers](./drivers.md)
-
----
-# The Harbormaster Cloud Provider Moat
-
-> **The moat isn't any single Harbormaster capability. It is the reinforcing system created when production power, proprietary production IP, compounding software-production advantage, and AI production intelligence continuously strengthen one another—making software less expensive to produce while expanding the workloads and cloud resources consumed across the ecosystem.**
- 
-[Explore Harbormaster Cloud Provider Moat](./cloud-moat.md)
 
 [<<< return](../README.md)

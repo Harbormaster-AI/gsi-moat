@@ -13,6 +13,16 @@ For a Managed Hybrid Cloud Provider, the resulting opportunity extends beyond pr
 ![](./assets/msp.central.thesis.png "MSP/Harbormaster Central Thesis")
 
 
+## The Harbormaster MSP Moat
+
+> **The moat isn't any single Harbormaster capability. It is the reinforcing system created when production power, proprietary production IP, compounding production advantage, and AI production intelligence continuously strengthen one another.**
+>
+> Explore the moat to understand its hypotheses with evidence to serve as proof to its value as a transformational competitive edge.
+>
+> [Explore Harbormaster MSP Moat](./moat.md)
+
+---
+
 ## The Transformation Creates Four Transcendent Benefits
 
 The four layers are not sequential benefits where one is inherently more valuable than another. They represent four reinforcing ways the transformation can create strategic advantage for a Managed Hybrid Cloud Provider.
@@ -162,9 +172,3 @@ Discover the full benefits of Harbormaster to a GSI ecosystem.
 [Explore Drivers](./drivers.md)
 
 ---
-
-# The Harbormaster MSP Moat
-
-> **The moat isn't any single Harbormaster capability. It is the reinforcing system created when production power, proprietary production IP, compounding production advantage, and AI production intelligence continuously strengthen one another.**
-> 
->[Explore Harbormaster MSP Moat](./moat.md)

@@ -1,9 +1,21 @@
 # Why We Built Harbormaster
 Harbormaster was designed from the beginning with the needs of a large software delivery organization in mind. The premise is to capture software expertise as reusable, executable knowledge, so that the organization can produce more software, faster, with progressively less dependence on large engineering teams. SMEs encode their expertise in blueprints; Harbormaster compiles that knowledge into complete systems; and developers begin innovating from Sprint 1 rather than building the foundation from scratch.
 
+---
 
 ![](./assets/gsi.central.thesis.png "GSI/Harbormaster Central Thesis")
 
+---
+
+## The Harbormaster GSI Moat
+
+> **The moat isn't any single Harbormaster capability. It is the reinforcing system created when production power, proprietary production IP, compounding production advantage, and AI production intelligence continuously strengthen one another.**
+>
+> Explore the moat to understand its hypotheses with evidence to serve as proof to its value as a transformational competitive edge.
+>
+> [Explore Harbormaster GSI Moat](./moat.md)
+
+---
 
 ## The Transformation Creates Four Transcendent Benefits
 
@@ -96,10 +108,4 @@ Discover the full benefits of Harbormaster to a GSI ecosystem.
 
 [Explore Drivers](./drivers.md)
 
----
 
-# The Harbormaster GSI Moat
-
-> **The moat isn't any single Harbormaster capability. It is the reinforcing system created when production power, proprietary production IP, compounding production advantage, and AI production intelligence continuously strengthen one another.**
-> 
->[Explore Harbormaster GSI Moat](./gsi-moat.md)

@@ -33,12 +33,32 @@ The same transformation can create different forms of value depending on the org
 
 ### Select a perspective
 
-| Target                               | Catalyst /  Outcome                                                                 |                                   | 
-|--------------------------------------|-------------------------------------------------------------------------------------|-----------------------------------|
-| ☁️ **Public Cloud Provider**         | **More applications → more cloud consumption.**                                     | [Explore](./cloud-provider/README.md "") |
-| 🏢 **GSI/Software Delivery Org**     | **More applications → more billable production + greater delivery economics.**      | [Explore](./gsi/README.md "")            |
-| ☁️🏢 **GSI w/ Private/Hybrid Cloud** | **More applications → more services + infrastructure + cloud + operation.**         | [Explore](./hybrid/README.md "")         |
-| 🖥️ **Managed Hybrid Cloud Provider** | **More applications → more managed workloads → more recurring operations revenue.** | [Explore](./msp/README.md "")            |
+| Target                               | Catalyst / Outcome                                                                                                      |                                      |
+|--------------------------------------|-------------------------------------------------------------------------------------------------------------------------|--------------------------------------|
+| 🏛️ **Large Enterprise**             | **More applications → lower production effort + greater engineering capacity + faster modernization.**                  | [Explore](./enterprise/README.md "")  |
+| ☁️ **Public Cloud Provider**         | **More applications → more cloud consumption.**                                                                         | [Explore](./cloud-provider/README.md "") |
+| 🏢 **GSI/Software Delivery Org**     | **More applications → more billable production + greater delivery economics.**                                         | [Explore](./gsi/README.md "")        |
+| ☁️🏢 **GSI w/ Private/Hybrid Cloud** | **More applications → more services + infrastructure + cloud + operation.**                                           | [Explore](./hybrid/README.md "")     |
+| 🖥️ **Managed Hybrid Cloud Provider** | **More applications → more managed workloads → more recurring operations revenue.**                                   | [Explore](./msp/README.md "")        |
+---
+
+## 🏛️ Large Enterprise
+
+### From Enterprise Software Organization to Software-Production Intelligence Organization
+
+A large enterprise can use Harbormaster to transform accumulated application, architecture, technology and industry knowledge into reusable, executable production capability.
+
+As more of the enterprise's production knowledge becomes encoded in blueprints and models:
+
+![](./assets/enterprise.less.more.png "Enterprise less and more")
+
+**Less production effort → greater engineering capacity → faster application delivery → faster modernization → more systems produced**
+
+The opportunity is not simply to reduce the cost of existing software development.
+
+> **It is to fundamentally increase the enterprise's capacity to create and modernize software.**
+
+[Explore the Large Enterprise Thesis →](./enterprise/README.md)
 
 ---
 
