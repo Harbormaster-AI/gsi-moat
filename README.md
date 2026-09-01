@@ -6,8 +6,8 @@ Instead of offering a deck with sales and marketing language, or an online demo,
 
 - An overarching thesis to summarize the high level intent of the platform.
 - A set of supporting sub-thesis based on the target user.
-- A set of hypothesis to support a sub-thesis.
-- Evidence, where possible, to support a hypothesis.
+- A set of hypothesis to support each sub-thesis.
+- Evidence, where possible, to support each hypothesis.
 
 ---
 
@@ -15,16 +15,16 @@ Instead of offering a deck with sales and marketing language, or an online demo,
 
 Harbormaster was preconceived based on a few simple assumptions:
 
-- #### Moving automation up your software delivery stack is a good thing.
-- #### Turning the knowledge of your software experts into the software system they intended is hit or miss.
-- #### It is better to have a new system created by your most knowledgeable application experts.
-- #### Positive results follow when teams can start innovating on Sprint.
+- #### Moving automation up the software delivery stack is a good thing.
+- #### Turning the knowledge of software experts into the exact software system they intended is still hit or miss.
+- #### It is better to have a new system created by an organization's most knowledgeable software experts.
+- #### Positive results follow when teams can start innovating on Sprint 1.
 
 ---
 
 # Audience
 
-This content is meant to inform and be shared with senior business and senior technology leadership.  If the platform is a transformational as the theses and hypotheses will try to reveal, it should effortlessly align with 1 or more goals of your CIO.
+This content is meant to inform and be shared with senior leadership.  If the platform is as transformational as the theses and hypotheses will try to reveal, it should effortlessly align with your CIO's goals.
 
 | Target Category                         | CIO | Chief/Enterprise Architect                                                                                                         | Application Portfolio Owner | Corporate Development |
 |-----------------------------------------|---|------------------------------------------------------------------------------------------------------------------------------------|---|---|
