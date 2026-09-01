@@ -11,7 +11,7 @@ Instead of offering a deck with sales and marketing language, or an online demo,
 
 ---
 
-# Quick Assumptions
+# Thesis Assumptions
 
 Harbormaster was preconceived based on a few simple assumptions:
 
