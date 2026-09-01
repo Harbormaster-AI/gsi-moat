@@ -1,4 +1,4 @@
-# GSI Provider Operational and Economic Drivers
+# GOperational and Economic Drivers
 
 | Metric                                   |    Year 1 |    Year 2 |     Year 3 |     Year 4 |     Year 5 | What Changes                                                               |
 | ---------------------------------------- | --------: | --------: | ---------: | ---------: | ---------: | -------------------------------------------------------------------------- |

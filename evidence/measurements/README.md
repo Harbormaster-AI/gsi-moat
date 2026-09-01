@@ -6,7 +6,7 @@ The objective is not simply to measure how much code Harbormaster generates. It 
 
 ## Measurement Categories
 
-![](./assets/measurement.categories.png)
+<!-- ![](./assets/measurement.categories.png) -->
 
 | Category | What It Measures | Importance |
 |---|---|---|

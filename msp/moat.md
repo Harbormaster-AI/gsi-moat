@@ -1,11 +1,9 @@
-![](./assets/hero.msp.moat.png "Harbormaster Managed Hybrid Cloud Moat")
+<!-- ![](./assets/hero.msp.moat.png "Harbormaster Managed Hybrid Cloud Moat") -->
 
 
-[<<< return](../README.md)
+# From Managed Services Provider to Software-Production and Operations Intelligence Company
 
-#### From Managed Services Provider to Software-Production and Operations Intelligence Company*
-
-> A set of hypotheses about how a Managed Hybrid Cloud Provider could use Harbormaster to transform accumulated application, architecture, infrastructure, cloud and operational knowledge into reusable, executable software-production capability—creating more economically viable systems, more managed workloads, and an increasingly intelligent managed environment. Each hypothesis is intended to be examined against evidence.
+A set of hypotheses about how a Managed Hybrid Cloud Provider could use Harbormaster to transform accumulated application, architecture, infrastructure, cloud and operational knowledge into reusable, executable software-production capability—creating more economically viable systems, more managed workloads, and an increasingly intelligent managed environment. Each hypothesis is intended to be examined against evidence.
 
 ## The Four-Layer Moat
 
@@ -74,10 +72,5 @@ Each hypothesis uses the same outline: **Summary, Implementation, Value — Toda
 - [H4-03 — Production and Operational Knowledge Can Become AI-Ready](./layer-4/h4-03.md) — Layer 4 · AI Intelligence
 - [H4-04 — AI Can Increasingly Connect Production With Operations](./layer-4/h4-04.md) — Layer 4 · AI Intelligence
 - [H4-05 — Accumulated Knowledge Can Improve Both Production and Managed Operations](./layer-4/h4-05.md) — Layer 4 · AI Intelligence
-
-
-## Closing
-
-> *A continuously expanding body of executable application, infrastructure and operational knowledge, accumulated from systems and customers, encoded in reusable blueprints and domain models, and increasingly used by AI to create, deploy, manage and improve the workloads within the managed environment.*
 
 [<<< return](../README.md)

@@ -12,7 +12,7 @@ These capture the features and core functionality of a specific vendor solution.
 
 For example:
 > Event Sourcing ===> Axon Framework 4 >>> derives from >>> Spring Boot 2.5 and React
-> Block Chain ===> Corda >>> dervies from Axon Framework 4
+> Block Chain ===> Corda >>> derives from Axon Framework 4
 >
 ### Other Solution Blueprints
 ts

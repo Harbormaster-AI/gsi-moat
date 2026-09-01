@@ -57,8 +57,4 @@ Each hypothesis uses the same outline: **Summary, Implementation, Value — Toda
 - [H4-03 — A GSI Can Build AI-Ready Engineering Knowledge](./layer-4/h4-03.md) — Layer 4 · AI Intelligence
 
 
-## Closing
-
-> *A continuously expanding body of executable software-production knowledge, accumulated from your people and projects, encoded in proprietary blueprints and domain models, and increasingly operated and improved by AI.*
-
 [<<< return](../README.md)

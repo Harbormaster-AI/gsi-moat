@@ -201,6 +201,7 @@ Explore the GIS/Private Cloud Managed Services Thesis For:
 [Kyndryl](./hybrid/kyndryl/README.md)  
 [DXC](./hybrid/dxc/README.md)  
 [HPE](./hybrid/hpe/README.md)
+
 ---
 
 # 🖥️ Managed Service Provider 

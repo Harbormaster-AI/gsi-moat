@@ -44,6 +44,3 @@ The CLI uses a separate NodeJS package which is an SDK to communicate with a Har
 This allows you to programmatically integrate system integration as part of a larger workflow.
 
 
-## Examples
-[System-as-Code YAMLs](../../evidence/system-as-code)
-

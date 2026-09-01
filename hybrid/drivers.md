@@ -1,4 +1,4 @@
-# GSI + Private/Hybrid Cloud Operational and Economic Drivers
+# Operational and Economic Drivers
 
 | Dimension                               | Traditional GSI Delivery                   | GSI + Harbormaster             | GSI + Harbormaster + Private/Hybrid Cloud                     | Direction of Change |
 | --------------------------------------- | ------------------------------------------ | ------------------------------ | ------------------------------------------------------------- | ------------------- |
