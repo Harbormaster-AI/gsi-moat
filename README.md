@@ -174,6 +174,7 @@ Harbormaster therefore creates a direct connection between software production a
 
 [Explore the Managed Service Provider Thesis](./msp/README.md)
 
+<!--
 ---
 
 # History 
@@ -181,4 +182,4 @@ Harbormaster therefore creates a direct connection between software production a
 Harbormaster has a history being trusted to turn application knowledge into reusable assets to create software systems.
 
 ![](./assets/history.png)
-
+-->
