@@ -30,42 +30,28 @@ The objective is not simply to measure how much code Harbormaster generates. It 
 
 Production volume measures the tangible software and technology artifacts produced by Harbormaster.
 
-Possible measurements include:
+The following table represents the production values for the [system generation sessions](../generated-systems/README.md) created for this thesis exercise. 
 
-- Lines of code
-- Number of classes
-- Number of methods
-- APIs
-- Database tables
-- Entities
-- Relationships
-- Tests
-- Configuration files
-- Docker artifacts
-- Kubernetes manifests
-- Terraform resources
-- CI/CD workflows
-- Infrastructure components
-- Generated repositories
-- Deployable services
-- Complete systems
-
-A production record might capture:
-
-```text
-47,000 lines of Java
-183 classes
-62 database artifacts
-41 APIs
-96 tests
-14 infrastructure artifacts
-1 complete CI/CD pipeline
-1 deployable system
-```
+| domainModel | generator | cliVersion | datetime | commitSHA | blueprint | cloud | terraform | kubernetes | generationId | certificationId | repository | totalFiles | totalLOCs |
+|---|---|---|---|---|---|---|---|---|---|---|---|---:|---:|
+| advertising | Harbormaster CLI | 1.2.0 | 2026-09-01T18:23:10 | c72d902d7b20b1f5c3cc3bd43e660eb72adfea39 | Spring Boot 3.5 | AWS | true | true | GEN-18568715 | 32c9ef22-d5a3-41cf-96cc-61457c570bf8 | Harbormaster-AI/advertising-on-springboot | 364 | 79,296 |
+| aerospace | Harbormaster CLI | 1.2.0 | 2026-09-01T21:27:47 | a0f9e9a9e3b5a03b3578230eab5c825b898c3611 | Spring Boot 3.5 | AWS | true | true | GEN-01259577 | 8f4e62f4-106d-4746-b3ef-909135c0f927 | Harbormaster-AI/aerospace-on-springboot | 392 | 83,627 |
+| analytics | Harbormaster CLI | 1.2.0 | 2026-09-01T18:42:18 | 302f22986ee4e9ca310fd404efb7a77d9667e0d9 | Spring Boot 3.5 | AWS | true | true | GEN-33828999 | b678a37b-c2a7-469f-adb0-0298469978b2 | Harbormaster-AI/analytics-on-springboot | 385 | 94,051 |
+| banking | Harbormaster CLI | 1.2.0 | 2026-09-01T18:47:15 | 44ceafed7f4512729bcbe1c95e01c08d24e9a6c6 | Spring Boot 3.5 | AWS | true | true | GEN-09152771 | 40324a6a-3eeb-4a37-989f-7694a200dfd3 | Harbormaster-AI/banking-on-springboot | 294 | 63,543 |
+| crm | Harbormaster CLI | 1.2.0 | 2026-09-01T19:07:17 | 85aaed5434e09869232be04bb75e5c95b24ba36e | Spring Boot 3.5 | AWS | true | true | GEN-44237476 | 50119bf0-92be-41c8-ad40-0b96878d3a5d | Harbormaster-AI/crm-on-springboot | 280 | 70,149 |
+| ecommerce | Harbormaster CLI | 1.2.0 | 2026-09-01T22:18:52 | cd81f46ed09a0e1ce1f1ae035baf657dc435f3ba | Spring Boot 3.5 | AWS | true | true | GEN-87233373 | b3d56b46-0924-4551-b8fe-3cd3f9338d1f | Harbormaster-AI/ecommerce-on-springboot | 392 | 90,932 |
+| fintech | Harbormaster CLI | 1.2.0 | 2026-09-01T19:09:38 | 19db9919f98d5e73a5a2cfad2f97a1130c8ea69d | Spring Boot 3.5 | AWS | true | true | GEN-81818463 | 0496b587-511e-4fee-974a-456aa69f1fcb | Harbormaster-AI/fintech-on-springboot | 469 | 108,762 |
+| governance | Harbormaster CLI | 1.2.0 | 2026-09-01T19:12:44 | 80f87879da01e02e9310ca1d2901174877e02fc0 | Spring Boot 3.5 | AWS | true | true | GEN-94756143 | 99626594-b5b0-4d76-a03a-f9e43381c1cb | Harbormaster-AI/governance-on-springboot | 399 | 95,353 |
+| healthcare | Harbormaster CLI | 1.2.0 | 2026-09-01T20:03:20 | 72e35390dace5858660319260232e69379df4bb1 | Spring Boot 3.5 | AWS | true | true | GEN-77171795 | c4339d88-12b5-4625-9227-c552f5728bf6 | Harbormaster-AI/healthcare-on-springboot | 385 | 87,747 |
+| hr | Harbormaster CLI | 1.2.0 | 2026-09-01T20:05:35 | 1dce7b95f1a77791619ddd24ca8b406eaf945219 | Spring Boot 3.5 | AWS | true | true | GEN-64048307 | 75c795e2-015b-441a-9e6c-59a0840ec840 | Harbormaster-AI/hr-on-springboot | 476 | 112,057 |
+| insurance | Harbormaster CLI | 1.2.0 | 2026-09-01T20:35:38 | e9f010ad582acdc4fcb716065198ded0b75a349a | Spring Boot 3.5 | AWS | true | true | GEN-74104582 | f6e276d4-7b78-4ae0-8962-9d1b0497f763 | Harbormaster-AI/insurance-on-springboot | 315 | 67,646 |
+| inventory | Harbormaster CLI | 1.2.0 | 2026-09-01T20:47:46 | 483e709cc4230ef263285f1186e67e5fb0d98796 | Spring Boot 3.5 | AWS | true | true | GEN-93440425 | 566365b9-85d7-40f8-b5ea-315afbcdbba2 | Harbormaster-AI/inventory-on-springboot | 273 | 59,093 |
+| iot | Harbormaster CLI | 1.2.0 | 2026-09-01T21:01:54 | 4bec2344c1ecddd97935e3ea8c137f16518fbd58 | Spring Boot 3.5 | AWS | true | true | GEN-25805890 | a2d8d061-c2cf-4ffd-9b4c-08479062157a | Harbormaster-AI/iot-on-springboot | 378 | 84,110 |
+| manufacturing | Harbormaster CLI | 1.2.0 | 2026-09-01T21:13:22 | f20b76ac13f06be701f79facea48f3382ff25b11 | Spring Boot 3.5 | AWS | true | true | GEN-94563688 | 89c39aef-b6f8-48fb-8d21-412a9f9a1fbf | Harbormaster-AI/manufacturing-on-springboot | 399 | 89,572 |
 
 ## Why It Matters
 
-Lines of code are not the ultimate measure of value, but they provide a physical measurement of production output.
+Lines of code and total number of files are not the ultimate measure of value, but they provide a physical measurement of production output.
 
 Production volume establishes:
 
