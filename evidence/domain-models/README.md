@@ -6,22 +6,23 @@ The industry domain models contained in this repo represent a small portion of t
 ## Available
 Harbormaster has over 240 AI procured domain models with the authorship quality of an industry SME.
 
+A model used in a [system generation](../generated-systems/README.md) is linked below to explore the model.
 
 ### Analytics \& AI
 
-|||||
-|-|-|-|-|
-|Analytics|Artificial Intelligence|Business Intelligence|Dashboard|
-|Data Analytics|Data Lineage|Data Quality|Forecasting|
-|Fraud Detection|Machine Learning|Recommendation Engine|Reporting|
+|                                                   ||||
+|---------------------------------------------------|-|-|-|
+| [Analytics](../domain-models/analytics/README.md) |Artificial Intelligence|Business Intelligence|Dashboard|
+| Data Analytics                                    |Data Lineage|Data Quality|Forecasting|
+| Fraud Detection                                   |Machine Learning|Recommendation Engine|Reporting|
 
 ### Banking
 
-|||||
-|-|-|-|-|
-|Banking|Commercial Banking|Core Banking|Digital Payments|
-|Fraud Detection|Loan Origination|Open Banking|Trade Finance|
-|Treasury|Wealth Management|||
+|                                               ||||
+|-----------------------------------------------|-|-|-|
+| [Banking](../domain-models/banking/README.md) |Commercial Banking|Core Banking|Digital Payments|
+| Fraud Detection                               |Loan Origination|Open Banking|Trade Finance|
+| Treasury                                      |Wealth Management|||
 
 ### Collaboration
 
@@ -32,11 +33,11 @@ Harbormaster has over 240 AI procured domain models with the authorship quality 
 
 ### Commerce
 
-|||||
-|-|-|-|-|
-|Checkout|E-Commerce|Fulfillment|Gift Cards|
-|Loyalty|Marketplace Management|Order Management|Retail|
-|Returns Management|Shipment Tracking|Shopping Cart|Subscription Commerce|
+||                                                    |||
+|-|----------------------------------------------------|-|-|
+|Checkout| [E-Commerce](../domain-models/ecommerce/README.md) |Fulfillment|Gift Cards|
+|Loyalty| Marketplace Management                             |Order Management|Retail|
+|Returns Management| Shipment Tracking                                  |Shopping Cart|Subscription Commerce|
 
 ### Communication
 
@@ -64,39 +65,39 @@ Harbormaster has over 240 AI procured domain models with the authorship quality 
 
 ### Financial
 
-|||||
-|-|-|-|-|
-|Accounts Payable|Accounts Receivable|Billing|Blockchain|
-|Budgeting|Capital Markets|Currency Exchange|Expense Management|
-|Financial Reporting|Fintech|General Ledger|Invoicing|
-|Mortgage Lending|Payments|Pricing|Real Estate|
-|Revenue Recognition|Subscription Management|Tax Management|Trade Finance|
-|Treasury|Wealth Management|||
+||                                               |||
+|-|-----------------------------------------------|-|-|
+|Accounts Payable| Accounts Receivable                           |Billing|Blockchain|
+|Budgeting| Capital Markets                               |Currency Exchange|Expense Management|
+|Financial Reporting| [Fintech](../domain-models/fintech/README.md) |General Ledger|Invoicing|
+|Mortgage Lending| Payments                                      |Pricing|Real Estate|
+|Revenue Recognition| Subscription Management                       |Tax Management|Trade Finance|
+|Treasury| Wealth Management                             |||
 
 ### Governance
 
-|||||
-|-|-|-|-|
-|Audit|Compliance|Data Retention|Governance|
-|Government|Legal Hold|Policy Management|Privacy Management|
-|Records Management||||
+||||                                                     |
+|-|-|-|-----------------------------------------------------|
+|Audit|Compliance|Data Retention| [Governance](../domain-models/governance/README.md) |
+|Government|Legal Hold|Policy Management| Privacy Management                                  |
+|Records Management|||                                                     |
 
 ### Healthcare
 
-|||||
-|-|-|-|-|
-|Biotechnology|Care Coordination|Claims Processing|Clinical Records|
-|Healthcare|Imaging Management|Laboratory Management|Life Sciences|
-|Medication Management|Patient Management|Pharmaceuticals|Provider Management|
-|Scheduling||||
+|                                                     ||||
+|-----------------------------------------------------|-|-|-|
+| Biotechnology                                       |Care Coordination|Claims Processing|Clinical Records|
+| [Healthcare](../domain-models/healthcare/README.md) |Imaging Management|Laboratory Management|Life Sciences|
+| Medication Management                               |Patient Management|Pharmaceuticals|Provider Management|
+| Scheduling                                          ||||
 
 ### Human Resources
 
-|||||
-|-|-|-|-|
-|Benefits|Employee Management|HR|Learning Management|
-|Onboarding|Payroll|Performance Management|Recruiting|
-|Recruitment|Time Tracking|Workforce Scheduling||
+|||                                    ||
+|-|-|------------------------------------|-|
+|Benefits|Employee Management| [HR](../domain-models/hr/README.md) |Learning Management|
+|Onboarding|Payroll| Performance Management             |Recruiting|
+|Recruitment|Time Tracking| Workforce Scheduling               ||
 
 ### Identity \& Security
 
@@ -110,26 +111,26 @@ Harbormaster has over 240 AI procured domain models with the authorship quality 
 
 ### Insurance
 
-|||||
-|-|-|-|-|
-|Actuarial Analysis|Claims Management|Insurance|Policy Administration|
-|Premium Billing|Reinsurance|Risk Assessment|Underwriting|
+|||                                                   ||
+|-|-|---------------------------------------------------|-|
+|Actuarial Analysis|Claims Management| [Insurance](../domain-models/insurance/README.md) |Policy Administration|
+|Premium Billing|Reinsurance| Risk Assessment                                   |Underwriting|
 
 ### Integration
 
-|||||
-|-|-|-|-|
-|API Management|Cloud|Data Synchronization|EDI|
-|ETL|Event Management|Gateway Management|IoT|
-|Message Queue|Partner Integration|Service Registry|Webhook Management|
+||||                                       |
+|-|-|-|---------------------------------------|
+|API Management|Cloud|Data Synchronization| EDI                                   |
+|ETL|Event Management|Gateway Management| [IoT](../domain-models/iot/README.md) |
+|Message Queue|Partner Integration|Service Registry| Webhook Management                    |
 
 ### Manufacturing
 
-|||||
-|-|-|-|-|
-|Aerospace|Agriculture|Automotive|Bill of Materials|
-|Capacity Planning|Food \& Beverage|Maintenance Management|Manufacturing Execution|
-|Manufacturing|Production Planning|Quality Management|Shop Floor Control|
+|                                                           ||||
+|-----------------------------------------------------------|-|-|-|
+| [Aerospace](../domain-models/aerospace/README.md)         |Agriculture|Automotive|Bill of Materials|
+| Capacity Planning                                         |Food \& Beverage|Maintenance Management|Manufacturing Execution|
+| [Manufacturing](../domain-models/manufacturing/README.md) |Production Planning|Quality Management|Shop Floor Control|
 
 ### Operations
 
@@ -143,20 +144,20 @@ Harbormaster has over 240 AI procured domain models with the authorship quality 
 
 ### Product \& Catalog
 
-|||||
-|-|-|-|-|
-|Bundle Management|Configuration Management|Inventory|Pricing Catalog|
-|Product Catalog|Product Lifecycle Management|Promotion Management|Quote Management|
-|Service Catalog||||
+|||                                                   ||
+|-|-|---------------------------------------------------|-|
+|Bundle Management|Configuration Management| [Inventory](../domain-models/inventory/README.md) |Pricing Catalog|
+|Product Catalog|Product Lifecycle Management| Promotion Management                              |Quote Management|
+|Service Catalog||                                                   ||
 
 ### Sales \& CRM
 
-|||||
-|-|-|-|-|
-|Account Planning|Advertising|Contract Management|CRM|
-|Customer Onboarding|Lead Management|Marketing|Opportunity Management|
-|Partner Management|Proposal Management|Quote Management|Sales Forecasting|
-|Sales Pipeline|Territory Management|||
+||                                                       ||                                       |
+|-|-------------------------------------------------------|-|---------------------------------------|
+|Account Planning| [Advertising](../domain-models/advertising/README.md) |Contract Management| [CRM](../domain-models/crm/README.md) |
+|Customer Onboarding| Lead Management                                       |Marketing| Opportunity Management                |
+|Partner Management| Proposal Management                                   |Quote Management| Sales Forecasting                     |
+|Sales Pipeline| Territory Management                                  ||                                       |
 
 ### Supply Chain
 
