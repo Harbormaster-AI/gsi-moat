@@ -1,6 +1,6 @@
 # Why
 
-create a larger, more valuable managed estate for organizations that manage  large and growing technology environments 
+Create a larger, more valuable managed estate for organizations that manage  large and growing technology environments 
 
 The premise is simple: much of the knowledge required to create, deploy and operate software systems is repeatedly recreated across projects and customers. Capture that knowledge as reusable, executable production capability.
 
