@@ -5,18 +5,18 @@ This content will serve to express who we built this platform for and the reason
 Instead of offering a deck with sales and marketing language, or an online demo, we offer a deeper understanding to the technology by creating:
 
 - An overarching thesis to summarize the high level intent of the platform.
-- A set of supporting sub-thesis based on the target user.
-- A set of hypothesis to support each sub-thesis.
+- A set of supporting sub-thesis based on the target organization.
+- A set of hypotheses to support each sub-thesis.
 - Evidence, where possible, to support each hypothesis.
 
 ---
 
 # Thesis Assumptions
 
-Harbormaster was preconceived based on a few simple assumptions:
+Harbormaster was preconceived based on a simple assumptions:
 
 - #### Moving automation up the software delivery stack is a good thing.
-- #### Turning the knowledge of software experts into the exact software system they intended is still hit or miss.
+- #### Turning the knowledge of software experts into the exact software system they intend is invaluable but still difficult.
 - #### It is better to have a new system created by an organization's most knowledgeable software experts.
 - #### Positive results follow when teams can start innovating on Sprint 1.
 
@@ -24,7 +24,7 @@ Harbormaster was preconceived based on a few simple assumptions:
 
 # Audience
 
-This content is meant to inform and be shared with senior leadership.  If the platform is as transformational as the theses and hypotheses will try to reveal, it should effortlessly align with your CIO's goals.
+This content is meant to inform and be shared with senior leadership.  If the platform is as transformational as the thesis and hypotheses will try to reveal, it should effortlessly align with a CIO's goals.
 
 | Target Category                         | CIO | Chief/Enterprise Architect                                                                                                         | Application Portfolio Owner | Corporate Development |
 |-----------------------------------------|---|------------------------------------------------------------------------------------------------------------------------------------|---|---|
@@ -58,7 +58,7 @@ The fundamental question is:
 
 Harbormaster is built around that premise.
 
-It captures software expertise in blueprints and domain models, combines that knowledge with configuration and policies, and compiles it into complete systems.
+To capture software expertise in blueprints and domain models, combine that knowledge with configuration and policies, and compile it into complete system.
 
 The objective is not simply to generate code.
 
@@ -66,7 +66,7 @@ The objective is not simply to generate code.
 
 ---
 
-# Fully Utilize Your Software SMEs
+# Fully Utilize Software SMEs
 
 Software SMEs traditionally create **static content**: 
 
@@ -78,7 +78,7 @@ Software SMEs traditionally create **static content**:
 - deployment instructions
 - other forms of institutional knowledge
 
-Harbormaster changes the role of that expertise. Instead of simply documenting **how a system should be built**, SMEs can encode that knowledge into **reusable, executable blueprints** that can participate directly in system production.
+The thesis contends the role of their expertise must change. Instead of  documenting **how a system should be built**, SMEs should encode that knowledge into **reusable, executable blueprints** that can participate directly in system production.
 
 The blueprint becomes a living representation of enterprise knowledge—capturing architecture, technology choices, policies, configuration and proven implementation patterns.
 
@@ -92,15 +92,15 @@ Over time, this creates an organizational asset that is far more valuable than a
 
 ### AI Matures With the Blueprint Continuum
 
-AI's role in software production can mature alongside the organization's growing continuum of blueprints. Early on, AI can **use existing blueprints** to assemble systems, configure options, explain production decisions and assist developers in applying proven patterns.
+AI's role in software production will mature alongside the organization's growing continuum of blueprints. Early on, AI will **use existing blueprints** to assemble systems, configure options, explain production decisions and assist developers in applying proven patterns.
 
 As the blueprint library expands—from foundational technology patterns to application architectures, industry models, infrastructure, security and operational capabilities—AI gains a progressively richer set of **known, validated production choices** from which to work.
 
-Over time, AI can move from **using blueprints → composing blueprints → extending blueprints → creating new blueprints**, with human SMEs providing governance and certification.
+Over time, AI will move from **using blueprints → composing blueprints → extending blueprints → creating new blueprints**, with human SMEs providing governance and certification.
 
 > **The more production knowledge the organization captures as executable blueprints, the more constrained, informed and capable AI becomes at creating software.**
 
-The long-term vision is not AI replacing the blueprint system. **The blueprint system becomes the structured production knowledge layer that gives AI something reliable to reason from, execute against, and continuously improve.**
+The long-term vision is not AI replacing the blueprint system. **The blueprint system becomes the structured production knowledge layer that gives AI a reliable substrate to reason from, execute against, and continuously improve.**
 
 ---
 
@@ -124,7 +124,7 @@ The same transformation can create different forms of value depending on the org
 
 ### From Enterprise Software Organization to Software-Production Intelligence Organization
 
-A large enterprise can use Harbormaster to transform accumulated application, architecture, technology and industry knowledge into reusable, executable production capability.
+A large enterprise will transform accumulated application, architecture, technology and industry knowledge into reusable, executable production capability.
 
 As more of the enterprise's production knowledge becomes encoded in blueprints and models:
 
@@ -143,7 +143,7 @@ The opportunity is not simply to reduce the cost of existing software developmen
 
 ### From Cloud Infrastructure Provider to Software-Production Intelligence Provider
 
-A cloud provider can use Harbormaster to transform its accumulated technology, architectural and industry expertise into an expanding software-production capability.
+A cloud provider will transform its accumulated technology, architectural and industry expertise into an expanding software-production capability.
 
 As software becomes less expensive to produce:
 
@@ -162,7 +162,7 @@ The opportunity is not simply to run more software.
 
 ### From Engineering Services Company to Software-Production Intelligence Company
 
-A GSI can use Harbormaster to transform accumulated engineering knowledge into reusable, executable production capability.
+A GSI will transform accumulated engineering knowledge into reusable, executable production capability.
 
 As more of the production process becomes encoded in blueprints:
 
@@ -181,7 +181,7 @@ The opportunity is not simply to deliver existing projects more efficiently.
 
 ### From Managed Infrastructure Provider to Software-Production Intelligence Provider
 
-A GSI with private-cloud infrastructure can use Harbormaster to transform accumulated engineering, architectural and industry expertise into an expanding software-production capability.
+A GSI with private-cloud infrastructure will transform accumulated engineering, architectural and industry expertise into an expanding software-production capability.
 
 As more software becomes economically viable to create and modernize:
 
@@ -207,13 +207,13 @@ Explore the GIS/Private Cloud Managed Services Thesis For:
 # 🖥️ Managed Service Provider 
 ### Turn Managed Operations Into a Workload-Growth Engine
 
-A Managed Hybrid Cloud Provider can use Harbormaster to increase the number of applications that become economically viable to create, modernize and bring into its managed technology environment.
+A Managed Hybrid Cloud Provider will increase the number of applications that become economically viable to create, modernize and bring into its managed technology environment.
 
 As more of the software-production process becomes encoded in reusable blueprints:
 
 ### Lower production effort → more systems created and modernized → more workloads deployed → larger managed estate → greater recurring services revenue
 
-Harbormaster therefore creates a direct connection between software production and managed-services growth:
+A direct connection is made between software production and managed-services growth:
 
 The opportunity is not simply to operate existing workloads more efficiently.
 
